@@ -17,3 +17,6 @@ References
 xv6 (a simple, Unix-like teaching operating system): https://github.com/mit-pdos/xv6-public
 Nice to see | Next : Circular Buffer (Wikipedia): https://en.wikipedia.org/wiki/Circular_buffer
 
+Known bugs:
+New high prio proc must wait to the current "round" of proc finishes before execute
+
